@@ -1,0 +1,65 @@
+/* App.css */
+
+body {
+  color: #ffffff;
+  background: url("img4.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.app-title {
+  text-align: center;
+  background: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+  margin-top: 2rem;
+  font-style: italic;
+  font-family: "Playfair Display", "Bookman", serif;
+}
+
+.center {
+  border: 5px solid;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+  font-size: 1.3em;
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  font-family: "Playfair Display", "Bookman", serif;
+  text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+}
+
+.portalText {
+  font-size: 1.3em;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Playfair Display", "Bookman", serif;
+  color: rgb(8, 8, 8);
+  margin-top: 40px;
+}
+
+.codeBox {
+  width: 140px;
+  height: 30px;
+  margin: 5px;
+}
