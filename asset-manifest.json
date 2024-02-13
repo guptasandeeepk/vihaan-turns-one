@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guptasandeeepk/vihaan-turns-one/static/css/main.fc14494c.css",
-    "main.js": "/guptasandeeepk/vihaan-turns-one/static/js/main.ed8fca73.js",
-    "static/js/592.558d8855.chunk.js": "/guptasandeeepk/vihaan-turns-one/static/js/592.558d8855.chunk.js",
-    "static/media/img4.jpg": "/guptasandeeepk/vihaan-turns-one/static/media/img4.62bc062ac58dbb17ae3e.jpg",
-    "index.html": "/guptasandeeepk/vihaan-turns-one/index.html",
-    "main.fc14494c.css.map": "/guptasandeeepk/vihaan-turns-one/static/css/main.fc14494c.css.map",
-    "main.ed8fca73.js.map": "/guptasandeeepk/vihaan-turns-one/static/js/main.ed8fca73.js.map",
-    "592.558d8855.chunk.js.map": "/guptasandeeepk/vihaan-turns-one/static/js/592.558d8855.chunk.js.map"
+    "main.css": "/vihaan-turns-one/static/css/main.7410ffb2.css",
+    "main.js": "/vihaan-turns-one/static/js/main.1e37e883.js",
+    "static/js/592.558d8855.chunk.js": "/vihaan-turns-one/static/js/592.558d8855.chunk.js",
+    "static/media/img4.jpg": "/vihaan-turns-one/static/media/img4.62bc062ac58dbb17ae3e.jpg",
+    "index.html": "/vihaan-turns-one/index.html",
+    "main.7410ffb2.css.map": "/vihaan-turns-one/static/css/main.7410ffb2.css.map",
+    "main.1e37e883.js.map": "/vihaan-turns-one/static/js/main.1e37e883.js.map",
+    "592.558d8855.chunk.js.map": "/vihaan-turns-one/static/js/592.558d8855.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc14494c.css",
-    "static/js/main.ed8fca73.js"
+    "static/css/main.7410ffb2.css",
+    "static/js/main.1e37e883.js"
   ]
 }
